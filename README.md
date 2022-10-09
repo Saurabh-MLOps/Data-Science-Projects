@@ -12,7 +12,7 @@ Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.ht
 
 ## Background Information
 
-This repo goes along with my video "Solving real world data science tasks with Python BeautifulSoup!
+"Solving real world data science tasks with Python BeautifulSoup!
 
 In this Project we scrape Wikipedia pages to create a dataset on Disney movies. 
 
