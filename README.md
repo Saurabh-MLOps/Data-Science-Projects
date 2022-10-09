@@ -16,7 +16,7 @@ Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.ht
 
 In this Project we scrape Wikipedia pages to create a dataset on Disney movies. 
 
-We cover a wide range of Python & data science topics in this video. They include:
+We cover a wide range of Python & data science topics in this Project. They include:
 - Web scraping with BeautifulSoup
 - Cleaning data
 - Testing code with Pytest
